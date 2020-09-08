@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mattjavier/mongo1#readme",
   "dependencies": {
+    "inquirer": "^7.3.3",
     "mongojs": "^3.1.0"
   }
 }
